@@ -1,0 +1,9 @@
+else if (strcmp(argv[0], "save") == 0) {
+    console_write("Salvando estado (nao implementado)...\n");
+}
+else if (strcmp(argv[0], "set") == 0) {
+    console_write("Configurando (nao implementado)...\n");
+}
+else if (strcmp(argv[0], "show") == 0) {
+    console_write("Exibindo (nao implementado)...\n");
+}
